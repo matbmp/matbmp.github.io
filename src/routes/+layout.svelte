@@ -1,11 +1,10 @@
 <script>
-	import '../app.postcss';
+  import "../app.postcss";
 </script>
 
 <div>
-	<slot />
+  <slot />
 </div>
 
-<style lang='postcss'>
-	
+<style lang="postcss">
 </style>
