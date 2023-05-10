@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400mm"
+   height="400mm"
+   viewBox="0 0 400 400"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (1:1.2.2+202212051550+b0a8486541)"
+   sodipodi:docname="layer_circle.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.26771948"
+     inkscape:cx="2106.6827"
+     inkscape:cy="920.73989"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#672178;stroke-width:0.264583"
+       id="path433"
+       cx="202.65891"
+       cy="196.43402"
+       r="157.3304" />
+    <circle
+       style="fill:#892ca0;stroke-width:0.264583"
+       id="path439"
+       cy="197.28119"
+       cx="201.08487"
+       r="129.67758" />
+    <path
+       style="fill:#ab37c8;stroke-width:0.264583"
+       id="path559"
+       sodipodi:type="arc"
+       sodipodi:cx="202.47116"
+       sodipodi:cy="195.47238"
+       sodipodi:rx="102.64736"
+       sodipodi:ry="102.64736"
+       sodipodi:start="0"
+       sodipodi:end="6.2823836"
+       sodipodi:arc-type="slice"
+       d="M 305.11852,195.47238 A 102.64736,102.64736 0 0 1 202.49173,298.11974 102.64736,102.64736 0 0 1 99.823807,195.51353 102.64736,102.64736 0 0 1 202.40944,92.825038 102.64736,102.64736 0 0 1 305.11849,195.39009 l -102.64733,0.0823 z" />
+    <circle
+       style="fill:#bc5fd3;stroke-width:0.264583"
+       id="path561"
+       cx="204.60202"
+       cy="196.66278"
+       r="74.660149" />
+    <circle
+       style="fill:#cd87de;stroke-width:0.264583"
+       id="path563"
+       cx="202.98811"
+       cy="195.02196"
+       r="41.835266" />
+  </g>
+</svg>
