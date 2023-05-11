@@ -4,7 +4,7 @@
   let navigationHidden = true;
 </script>
 
-<Drawer transitionType="fly"  bind:hidden={navigationHidden}>
+<Drawer transitionType="fly" bind:hidden={navigationHidden}>
   <nav class="flex flex-col items-start text-2xl">
     <button class="px-4 py-2 hover:text-green-400">Projects</button>
     <button class="px-4 py-2 hover:text-green-400">About</button>
@@ -40,5 +40,26 @@
       <span class="text-cyan-500">computer graphics</span><br />
       <span class="text-amber-500">computer vision</span>
     </span>
+  </div>
+</div>
+
+<div class="flex items-center">
+  <div class="mx-auto w-7/8 lg:w-2/3">
+    <a
+      target="_blank"
+      rel="noopener noreferrer"
+      href="https://matbmp.github.io/lumen/"
+    >
+      <div class="bg-slate-200 p-4 m-4">
+        <div class="py-4">
+          <span class="text-6xl">Lumen</span>
+          <p class="text-2xl text-slate-700">
+            Tiny utility website for creating CSS gradients.
+          </p>
+          <p class='text-slate-500'>Created with <span class='text-amber-500 font-bold'>Svelte</span></p>
+        </div>
+        <img alt="lumen" src="lumen.png" />
+      </div>
+    </a>
   </div>
 </div>
